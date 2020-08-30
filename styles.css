@@ -1,0 +1,182 @@
+body{
+    background-color:#666666;
+}
+
+h1{
+    color: white;
+    background-color: none;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    margin-bottom: -40px;
+}
+h2{
+    color: white;
+    background-color: none;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    
+}
+
+
+
+div-one img{
+    align-items: right;
+}
+.section-one{
+    color:white;
+    text-decoration-line: none;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 10px;
+    }
+.div-one{width:60%;
+
+}
+.section-two{
+    color:white;
+    text-decoration-line: none;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: right;
+    margin-right: 10%;
+}
+.div-two{width:60%;
+}
+div-two img{
+    align-items: left;
+}
+.section-three{
+    color:white;
+    text-decoration-line: none;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+div-two p3{
+    color:white;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+   ;
+}
+div5{
+    border:black;
+    background-color:none;
+    text-align:right;
+}
+div-two h6{
+    color:white;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: right;
+
+}
+div p3{
+    color: white;
+    font-size: 15px;
+    font-family: 'Varela Round', sans-serif;
+    display: block;
+    text-align: right;
+    width: 800px;
+    margin-right:50px;
+    }
+div6 h7{
+    color:white;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    margin-left:50px;
+    font-weight: bold;
+   
+}
+div6 p4{
+    color: white;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: match-parent;
+    display: block;
+    margin-left:50px;
+    width: 800px;    
+}
+p1{
+    color: white;
+    background-color: none;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    word-spacing: 5cm;   
+}
+hr{
+    height:3px;
+    fill:white;
+    background:white;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h8{ 
+    color: white;
+    background-color: none;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    text-decoration-line: underline
+}
+p5{ color: white;
+    background-color: none;
+    font-size: 15px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+
+}
+h9{
+    color:white;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+p6{ 
+    color: white;
+    background-color: none;
+    font-size: 13px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    word-spacing: 100px;
+}
+p7{
+    color: #e0e0e0;
+    background-color: none;
+    font-size: 11px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    word-spacing: 45px;
+}     
+    
+h10{ color: white;
+    background-color: none;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+           }
+p10{   color: white;
+            background-color: none;
+            font-size: 10px;
+            text-decoration: none;
+            font-family: 'Varela Round', sans-serif;
+            text-align: center;
+        }
+section {
+    border: 2px solid none;
+            
+     display: flex;
+    flex-direction: row;
+    
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
